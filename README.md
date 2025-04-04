@@ -25,7 +25,7 @@ A one-click installer for Metasploitable 3 that automatically handles all depend
 
 1. Download the latest `Metasploitable3-Installer.exe` from [Here](Metasploitable3.exe)
 2. Run the executable as Administrator
-3. Follow the on-screen instructions
+3. Deactivate the Antivirus
 
 The installer will:
 - Check for/install VirtualBox if needed
